@@ -18,26 +18,3 @@
 
 * Seção 9: Uso Avançado de Componentes
  
-* Seção 10: Projeto #02 - Tarefas (TODO)
- 
-* Seção 11: Manipulando Entrada de Usuário com
-Formulários
-
-* Seção 12: Usando e Criando Diretivas
-
-* Seção 13: Melhorando sua App com Filtros e Mixins
-
-* Seção 14: Adicionando Animações e Transições
-
-* Seção 15: Conectando com Servidor via HTTP
-
-* Seção 16: Rotas em uma Aplicação VueJS
-
-* Seção 17: Melhor Gerenciamento de Estado com Vuex
-
-* Seção 18: Projeto #03 - The Stock Trader
-
-* Seção 19: Publicando uma Aplicação VueJS na Amazon
-
-* Seção 25: Bonus: Javascript Essencial
-
