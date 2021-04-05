@@ -18,3 +18,7 @@
 
 * Seção 9: Uso Avançado de Componentes
  
+* Seção 10: Projeto #02 - Tarefas (TODO)
+ 
+* Seção 11: Manipulando Entrada de Usuário com
+Formulários
