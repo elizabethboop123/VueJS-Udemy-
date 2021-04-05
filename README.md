@@ -8,8 +8,6 @@
  
 * Seção 4: Projeto #01 - O Matador de Monstros
  
-* Fazer em um projeto separado no GIT
-
 * Seção 5: Entendendo a Instância Vue
  
 * Seção 6: Fluxo de Desenvolvimento "Real" Usando Vue CLI
