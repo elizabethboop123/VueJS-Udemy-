@@ -40,5 +40,4 @@ Formulários
 * Seção 19: Publicando uma Aplicação VueJS na Amazon
 
 * Seção 25: Bonus: Javascript Essencial
-# VueJS-Udemy-
-# VueJS-Udemy-
+
