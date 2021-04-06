@@ -37,7 +37,7 @@ export default {
 
     input.form-element {
         width: 500px;
-        background: #FFF2;
+        background: rgba(235, 231, 231, 0.856);
         border-top-left-radius: 8px;
         border-bottom-left-radius: 8px;
     }

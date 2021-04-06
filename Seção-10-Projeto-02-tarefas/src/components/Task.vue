@@ -26,10 +26,10 @@ export default {
     .task {
         position: relative;
         box-sizing: border-box;
-        width: 350px;
-        height: 150px;
+        width: 200px;
+        height: 100px;
         padding: 10px;
-        border-radius: 8px;
+        border-radius: 6px;
         font-size: 2rem;
         font-weight: 300;
         cursor: pointer;
@@ -40,23 +40,23 @@ export default {
     }
 
     .pending {
-        border-left: 12px solid #B73229;
-        background-color: #F44336;
+        border-left: 12px solid #330e2a;
+        background-color: #8f299c;
     }
 
     .done {
         color: #DDD;
-        border-left: 12px solid #0A8F08;
-        background-color: #4CAF50;
+        border-left: 12px solid #368135;
+        background-color: #3b683e;
         text-decoration: line-through;
     }
 
     .pending .close {
-        background-color: #B73229;
+        background-color: #c02015;
     }
 
     .done .close {
-        background-color: #0A8F08;
+        background-color: #1e3b1e;
     }
 
     .close {

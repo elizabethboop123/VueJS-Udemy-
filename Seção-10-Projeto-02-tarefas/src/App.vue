@@ -4,7 +4,7 @@
 		<TasksProgress :progress="progress" />
 		<NewTask @taskAdded="addTask" />
 		<TaskGrid :tasks="tasks"
-			@taskDeleted="deleteTask" 
+			@taskDeleted="deleteTask"
 			@taskStateChanged="toggleTaskState" />
 	</div>
 </template>
@@ -65,7 +65,7 @@ export default {
 <style>
 	body {
 		font-family: 'Lato', sans-serif;
-		background: linear-gradient(to right, rgb(22, 34, 42), rgb(58, 96, 115));
+		background: linear-gradient(to right, rgb(27, 35, 41), rgb(58, 96, 115));
 		color: #FFF;
 	}
 
